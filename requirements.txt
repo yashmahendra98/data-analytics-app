@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+flask  # If you're building a web app
+ 
